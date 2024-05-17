@@ -1,1 +1,1 @@
-# Hypoxic_brain_injury_due_to_NFS_entity_mining
+# This repository contains a comprehensive literature review and text mining analysis focused on two critical medical terms: "Hypoxic Brain Injury (HBI)" and "Non-Fatal Strangulation". The aim of this work is to gather and analyze the existing corpora of data available on the internet related to these terms.
